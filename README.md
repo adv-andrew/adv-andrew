@@ -3,9 +3,9 @@
 
 - I primarily work in Python, C++, and I’m deepening my knowledge in AI, distributed systems, and trading models.
 
-P.S (I’ve launched full-stack Roblox games accumulating 130M+ plays! Play my favorite one here [Game Link](https://www.roblox.com/games/9264596435/Idle-Heroes-Simulator)
-
 ### Contact Me
 - [My Site + Blog](REDACTED)
 - [LinkedIn](https://www.linkedin.com/in/adv-andrew-d-vu/)
 - [Email](mailto:contact@REDACTED): `contact@REDACTED`
+
+- P.S (I’ve also launched full-stack Roblox games accumulating 130M+ plays! Play my favorite one here [Game Link](https://www.roblox.com/games/9264596435/Idle-Heroes-Simulator)
