@@ -6,4 +6,3 @@
 ### Contact Me
 - [LinkedIn](https://www.linkedin.com/in/adv-andrew-d-vu/)
 - [Roblox Profile](https://www.roblox.com/users/96753261/profile)
-![Uploading Untitled_video_-_Made_with_Clipchamp_2_1.gif…]()
