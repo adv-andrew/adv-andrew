@@ -11,6 +11,4 @@ If you're in the bay area this summer, let's connect! (definitely going to be at
 
 ![Image](https://github.com/user-attachments/assets/a8040694-4d29-47ad-bc87-46889a984634)
 
-ryzen 7 5700x
-nvidia rtx 2080 super
-64g 3600hz ram
+ryzen 7 5700x | nvidia rtx 2080 super | 64g 3600hz ram
