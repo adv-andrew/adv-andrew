@@ -14,3 +14,4 @@ If you're in the bay area this summer, let's connect! (definitely going to be at
 ryzen 7 5700x | nvidia rtx 2080 super | 64g 3600hz ram
 <!-- achievement update Fri, Feb 27, 2026  7:18:40 PM -->
 <!-- update 2 Fri, Feb 27, 2026  7:18:58 PM -->
+<!-- co-authored with arianna -->
