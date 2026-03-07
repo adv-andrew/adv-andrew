@@ -1,5 +1,5 @@
 ### About Me
-- My name is Andy. I’m an incoming Solutions Architect Intern @ NVIDIA and previous SWE Intern @ Adtran. I'm passionate about building things that people actually use.
+- My name is Andy. I’m an incoming Solutions Architect Intern @ [NVIDIA](https://www.nvidia.com/) and previous SWE Intern @ [Adtran](https://www.adtran.com/). I'm passionate about building things that people actually use.
 - I primarily use Lua (roblox games), Python, and C++.
 - In my free time I like rock climbing, swimming, and game development. [Play my favorite game!](https://www.roblox.com/games/102004471989393/Make-a-Military-Army)
 
