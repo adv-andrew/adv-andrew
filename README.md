@@ -6,6 +6,7 @@
 ### Contact Me
 - [LinkedIn](https://www.linkedin.com/in/adv-andrew-d-vu/)
 - [Roblox Profile](https://www.roblox.com/users/96753261/profile)
+- [Portfolio](https://andrewvu.me)
 
 If you're in the bay area this summer, let's connect! (definitely going to be at the rock climbing gym a lot)
 
