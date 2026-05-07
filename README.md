@@ -22,5 +22,3 @@ ryzen 7 5700x | nvidia rtx 2080 super | 64g 3600hz ram
 <!-- fresh 3 -->
 <!-- yolo -->
 
-
-[![andyone profile views](https://u8views.com/api/v1/github/profiles/188379333/views/day-week-month-total-count.svg)](https://u8views.com/github/adv-andrew)
